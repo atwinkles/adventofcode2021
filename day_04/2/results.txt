@@ -1,0 +1,5132 @@
+['23', '30', '70', '61', '79', '49', '19', '37', '64', '48', '72', '34', '69', '53', '15', '74', '89', '38', '46', '36', '28', '32', '45', '2', '39', '58', '11', '62', '97', '40', '14', '87', '96', '94', '91', '92', '80', '99', '6', '31', '57', '98', '65', '10', '33', '63', '42', '17', '47', '66', '26', '22', '73', '27', '7', '0', '55', '8', '56', '29', '86', '25', '4', '12', '51', '60', '35', '50', '5', '75', '95', '44', '16', '93', '21', '3', '24', '52', '77', '76', '43', '41', '9', '84', '67', '71', '83', '88', '59', '68', '85', '82', '1', '18', '13', '78', '20', '90', '81', '54']
+Round 0: 23
+Round 1: 30
+Round 2: 70
+Round 3: 61
+Round 4: 79
+Round 5: 49
+Round 6: 19
+Round 7: 37
+Round 8: 64
+Round 9: 48
+Round 10: 72
+Round 11: 34
+Round 12: 69
+Round 13: 53
+Round 14: 15
+Round 15: 74
+Round 16: 89
+Round 17: 38
+Round 18: 46
+Round 19: 36
+Round 20: 28
+Round 21: 32
+
+Removing board 
+68 X  40 31 39 
+X  X  X  X  X  
+80 98 88 14 97 
+6  60 52 11 55 
+95 X  63 81 4  
+after getting bingo
+
+Round 22: 45
+Round 23: 2
+Round 24: 39
+
+Removing board 
+90 62 X  50 X  
+77 51 8  11 13 
+X  29 43 88 33 
+X  X  X  X  X  
+91 9  6  68 3  
+after getting bingo
+
+Round 25: 58
+Round 26: 11
+Round 27: 62
+Round 28: 97
+Round 29: 40
+Round 30: 14
+Round 31: 87
+Round 32: 96
+
+Removing board 
+X  44 X  90 21 
+35 8  1  59 56 
+X  71 84 18 X  
+X  X  X  X  X  
+92 20 33 94 17 
+after getting bingo
+
+Round 33: 94
+Round 34: 91
+Round 35: 92
+
+Removing board 
+85 99 X  16 10 
+12 21 X  X  83 
+4  X  X  51 X  
+41 X  X  65 24 
+50 82 X  52 35 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+27 56 50 33 54 
+67 X  35 25 10 
+93 X  X  90 4  
+57 X  X  83 X  
+after getting bingo
+
+Round 36: 80
+
+Removing board 
+X  X  71 81 88 
+X  5  X  41 22 
+X  20 7  75 X  
+X  X  63 X  54 
+X  X  X  6  55 
+after getting bingo
+
+Round 37: 99
+
+Removing board 
+X  65 33 56 X  
+84 41 X  21 X  
+4  78 27 17 X  
+22 X  52 X  X  
+24 25 42 X  X  
+after getting bingo
+
+
+Removing board 
+85 X  X  16 10 
+12 21 X  X  83 
+4  X  X  51 X  
+41 X  X  65 24 
+50 82 X  52 35 
+after getting bingo
+
+Round 38: 6
+
+Removing board 
+X  86 X  73 X  
+X  X  X  X  X  
+85 12 75 88 5  
+0  29 41 21 X  
+47 66 59 54 1  
+after getting bingo
+
+Round 39: 31
+
+Removing board 
+56 X  67 X  17 
+7  X  10 X  85 
+68 59 63 X  X  
+13 81 X  X  X  
+X  84 71 X  X  
+after getting bingo
+
+
+Removing board 
+X  65 X  13 X  
+7  57 86 18 67 
+26 85 29 22 X  
+X  X  X  X  X  
+X  17 50 56 9  
+after getting bingo
+
+Round 40: 57
+
+Removing board 
+71 X  X  X  26 
+12 X  X  X  55 
+4  56 X  73 X  
+75 60 X  9  50 
+X  X  X  1  90 
+after getting bingo
+
+Round 41: 98
+
+Removing board 
+X  18 13 3  X  
+42 29 X  X  85 
+X  X  X  X  X  
+X  X  X  9  63 
+X  66 X  17 X  
+after getting bingo
+
+Round 42: 65
+
+Removing board 
+X  0  X  82 9  
+X  24 X  X  60 
+68 16 X  X  20 
+X  X  X  X  X  
+X  10 54 8  95 
+after getting bingo
+
+
+Removing board 
+X  X  33 56 X  
+84 41 X  21 X  
+4  78 27 17 X  
+22 X  52 X  X  
+24 25 42 X  X  
+after getting bingo
+
+Round 43: 10
+
+Removing board 
+X  0  X  82 9  
+X  24 X  X  60 
+68 16 X  X  20 
+X  X  X  X  X  
+X  X  54 8  95 
+after getting bingo
+
+
+Removing board 
+56 X  67 X  17 
+7  X  X  X  85 
+68 59 63 X  X  
+13 81 X  X  X  
+X  84 71 X  X  
+after getting bingo
+
+Round 44: 33
+
+Removing board 
+X  X  X  26 X  
+X  85 9  54 X  
+50 29 84 X  4  
+X  X  X  X  X  
+77 59 0  42 35 
+after getting bingo
+
+Round 45: 63
+
+Removing board 
+X  75 41 X  86 
+71 67 66 X  X  
+X  X  X  X  X  
+X  X  42 77 60 
+44 X  12 84 X  
+after getting bingo
+
+
+Removing board 
+54 85 67 X  X  
+25 X  X  73 X  
+X  X  4  X  X  
+X  X  29 X  X  
+X  X  5  7  X  
+after getting bingo
+
+Round 46: 42
+
+Removing board 
+43 86 50 X  77 
+X  X  X  X  X  
+X  29 20 84 0  
+X  59 X  X  X  
+76 12 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  75 41 X  86 
+71 67 66 X  X  
+X  X  X  X  X  
+X  X  X  77 60 
+44 X  12 84 X  
+after getting bingo
+
+
+Removing board 
+5  X  X  X  X  
+X  X  22 8  81 
+X  X  78 3  X  
+X  X  X  X  51 
+X  X  X  75 X  
+after getting bingo
+
+
+Removing board 
+8  X  22 90 54 
+26 4  X  27 X  
+78 25 X  85 X  
+X  X  X  X  X  
+X  75 60 X  35 
+after getting bingo
+
+Round 47: 17
+
+Removing board 
+13 X  X  67 X  
+88 X  X  20 26 
+X  X  X  24 X  
+35 X  X  X  1  
+X  7  X  76 X  
+after getting bingo
+
+Round 48: 47
+
+Removing board 
+50 X  X  X  X  
+0  22 3  83 X  
+X  93 81 84 X  
+X  35 X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  78 73 
+X  16 X  X  4  
+X  68 21 X  X  
+X  26 81 67 25 
+X  X  X  41 22 
+after getting bingo
+
+
+Removing board 
+82 X  X  4  86 
+55 0  X  88 24 
+50 X  X  X  21 
+X  X  X  X  X  
+X  16 13 X  X  
+after getting bingo
+
+Round 49: 66
+
+Removing board 
+85 X  90 X  88 
+95 X  4  X  27 
+1  X  X  41 X  
+54 X  X  9  X  
+60 X  X  67 16 
+after getting bingo
+
+
+Removing board 
+20 75 12 67 41 
+X  X  X  X  X  
+X  X  1  0  X  
+X  X  85 X  50 
+44 X  X  35 86 
+after getting bingo
+
+
+Removing board 
+X  75 41 X  86 
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 60 
+44 X  12 84 X  
+after getting bingo
+
+
+Removing board 
+X  X  35 76 83 
+13 X  26 4  1  
+X  22 X  93 29 
+X  41 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 50: 26
+
+Removing board 
+12 54 0  86 52 
+X  56 29 X  X  
+X  X  X  X  X  
+3  4  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+50 X  X  84 27 
+X  X  51 3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+12 X  X  25 18 
+after getting bingo
+
+
+Removing board 
+X  90 X  78 73 
+X  16 X  X  4  
+X  68 21 X  X  
+X  X  81 67 25 
+X  X  X  41 22 
+after getting bingo
+
+Round 51: 22
+
+Removing board 
+50 X  X  X  X  
+0  X  3  83 X  
+X  93 81 84 X  
+X  35 X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  51 X  90 X  
+35 X  55 73 X  
+X  X  X  0  X  
+50 81 13 18 X  
+X  4  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+8  X  X  X  X  
+X  X  X  29 75 
+5  0  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+X  56 8  X  4  
+X  X  77 35 90 
+X  0  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+5  X  X  X  X  
+X  X  X  8  81 
+X  X  78 3  X  
+X  X  X  X  51 
+X  X  X  75 X  
+after getting bingo
+
+
+Removing board 
+88 X  76 78 95 
+X  X  X  X  X  
+7  21 X  93 X  
+X  X  9  X  X  
+X  5  X  X  X  
+after getting bingo
+
+Round 52: 73
+
+Removing board 
+56 X  X  X  35 
+X  X  75 25 27 
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  55 77 
+after getting bingo
+
+
+Removing board 
+X  51 X  90 X  
+35 X  55 X  X  
+X  X  X  0  X  
+50 81 13 18 X  
+X  4  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 X  X  90 
+X  51 X  X  86 
+X  X  52 X  X  
+67 X  35 X  X  
+X  X  X  X  43 
+after getting bingo
+
+Round 53: 27
+
+Removing board 
+85 X  90 X  88 
+95 X  4  X  X  
+1  X  X  41 X  
+54 X  X  9  X  
+60 X  X  67 16 
+after getting bingo
+
+
+Removing board 
+X  X  1  81 X  
+X  71 X  52 56 
+X  X  X  82 X  
+X  X  X  X  51 
+X  X  X  12 X  
+after getting bingo
+
+
+Removing board 
+56 X  X  X  35 
+X  X  75 25 X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  55 77 
+after getting bingo
+
+
+Removing board 
+50 X  X  84 X  
+X  X  51 3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+12 X  X  25 18 
+after getting bingo
+
+
+Removing board 
+X  X  X  4  8  
+X  21 X  X  3  
+X  12 X  55 16 
+X  X  43 X  54 
+X  X  X  X  25 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  29 
+1  54 90 68 16 
+X  50 X  95 12 
+21 71 81 X  60 
+after getting bingo
+
+
+Removing board 
+90 X  X  29 X  
+67 1  8  X  X  
+X  X  X  X  68 
+78 X  93 X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 54: 7
+
+Removing board 
+X  X  13 X  X  
+X  X  16 8  X  
+93 43 81 X  X  
+20 X  X  24 3  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 51 0  X  52 
+X  X  X  X  X  
+20 35 12 X  X  
+X  56 X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+X  56 X  41 X  
+X  X  16 18 X  
+X  X  X  35 3  
+X  X  20 X  X  
+X  85 X  X  X  
+after getting bingo
+
+
+Removing board 
+44 X  71 13 X  
+X  X  X  X  X  
+X  1  21 8  55 
+X  X  X  X  3  
+X  50 X  85 X  
+after getting bingo
+
+Round 55: 0
+
+Removing board 
+50 X  X  X  X  
+X  X  3  83 X  
+X  93 81 84 X  
+X  35 X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+20 75 12 67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  50 
+44 X  X  35 86 
+after getting bingo
+
+
+Removing board 
+43 86 50 X  77 
+X  X  X  X  X  
+X  29 20 84 X  
+X  59 X  X  X  
+76 12 X  X  X  
+after getting bingo
+
+
+Removing board 
+12 54 X  86 52 
+X  56 29 X  X  
+X  X  X  X  X  
+3  4  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  24 X  X  60 
+68 16 X  X  20 
+X  X  X  X  X  
+X  X  54 8  95 
+after getting bingo
+
+
+Removing board 
+X  51 X  90 X  
+35 X  55 X  X  
+X  X  X  X  X  
+50 81 13 18 X  
+X  4  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 51 X  X  52 
+X  X  X  X  X  
+20 35 12 X  X  
+X  56 X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+8  X  X  X  X  
+X  X  X  29 75 
+5  X  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  44 
+X  X  54 X  12 
+43 29 18 X  X  
+X  X  X  X  X  
+X  X  60 68 50 
+after getting bingo
+
+
+Removing board 
+X  56 8  X  4  
+X  X  77 35 90 
+X  X  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  76 81 67 16 
+X  41 X  X  X  
+X  X  X  X  X  
+X  X  56 88 X  
+X  X  X  75 8  
+after getting bingo
+
+
+Removing board 
+X  X  1  X  X  
+8  X  X  77 81 
+X  51 X  X  X  
+86 50 71 5  93 
+X  X  X  X  X  
+after getting bingo
+
+Round 56: 55
+
+Removing board 
+X  67 52 X  X  
+X  5  4  51 76 
+X  59 X  8  X  
+X  X  20 X  X  
+X  X  86 29 43 
+after getting bingo
+
+
+Removing board 
+56 X  X  X  35 
+X  X  75 25 X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  51 X  90 X  
+35 X  X  X  X  
+X  X  X  X  X  
+50 81 13 18 X  
+X  4  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  4  8  
+X  21 X  X  3  
+X  12 X  X  16 
+X  X  43 X  54 
+X  X  X  X  25 
+after getting bingo
+
+
+Removing board 
+X  84 X  X  85 
+X  X  X  X  X  
+78 52 67 60 X  
+43 X  8  44 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  X  16 56 
+84 X  41 3  20 
+85 5  76 95 X  
+X  X  X  X  X  
+X  X  X  X  1  
+after getting bingo
+
+Round 57: 8
+
+Removing board 
+X  67 52 X  X  
+X  5  4  51 76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  86 29 43 
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  77 X  
+3  X  4  20 35 
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  16 X  X  
+93 43 81 X  X  
+20 X  X  24 3  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+52 71 X  95 84 
+76 X  X  59 X  
+1  X  X  X  X  
+X  X  X  50 68 
+13 X  X  51 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  24 X  X  60 
+68 16 X  X  20 
+X  X  X  X  X  
+X  X  54 X  95 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  29 75 
+5  X  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+59 X  9  67 X  
+X  18 X  X  50 
+86 X  75 56 X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  56 X  X  4  
+X  X  77 35 90 
+X  X  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+5  X  X  X  X  
+X  X  X  X  81 
+X  X  78 3  X  
+X  X  X  X  51 
+X  X  X  75 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  4  X  
+X  21 X  X  3  
+X  12 X  X  16 
+X  X  43 X  54 
+X  X  X  X  25 
+after getting bingo
+
+
+Removing board 
+X  84 X  X  85 
+X  X  X  X  X  
+78 52 67 60 X  
+43 X  X  44 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  60 44 78 
+X  X  X  X  X  
+X  21 59 35 X  
+X  X  67 X  X  
+25 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  76 81 67 16 
+X  41 X  X  X  
+X  X  X  X  X  
+X  X  56 88 X  
+X  X  X  75 X  
+after getting bingo
+
+Round 58: 56
+
+Removing board 
+X  X  1  81 X  
+X  71 X  52 X  
+X  X  X  82 X  
+X  X  X  X  51 
+X  X  X  12 X  
+after getting bingo
+
+
+Removing board 
+X  93 71 X  X  
+X  X  X  X  82 
+5  X  X  X  X  
+67 77 41 X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+12 54 X  86 52 
+X  X  29 X  X  
+X  X  X  X  X  
+3  4  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+86 68 X  X  5  
+X  X  X  4  1  
+50 X  12 83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  35 
+X  X  75 25 X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  X  77 
+after getting bingo
+
+
+Removing board 
+54 51 X  X  52 
+X  X  X  X  X  
+20 35 12 X  X  
+X  X  X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+59 X  9  67 X  
+X  18 X  X  50 
+86 X  75 X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  4  
+X  X  77 35 90 
+X  X  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+13 25 X  50 X  
+77 4  41 X  X  
+68 X  75 9  X  
+X  X  60 X  X  
+X  83 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  41 X  
+X  X  16 18 X  
+X  X  X  35 3  
+X  X  20 X  X  
+X  85 X  X  X  
+after getting bingo
+
+
+Removing board 
+71 68 X  81 X  
+44 X  60 X  X  
+43 X  X  X  X  
+X  X  X  X  X  
+X  X  86 X  54 
+after getting bingo
+
+Round 59: 29
+
+Removing board 
+X  67 52 X  X  
+X  5  4  51 76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  86 X  43 
+after getting bingo
+
+
+Removing board 
+43 86 50 X  77 
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+76 12 X  X  X  
+after getting bingo
+
+
+Removing board 
+12 54 X  86 52 
+X  X  X  X  X  
+X  X  X  X  X  
+3  4  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  3  1  71 X  
+X  X  X  76 X  
+X  86 X  X  X  
+67 X  X  X  X  
+X  X  43 X  X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 60 
+X  50 X  X  83 
+X  X  9  12 95 
+X  X  24 54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  75 
+5  X  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  44 
+X  X  54 X  12 
+43 X  18 X  X  
+X  X  X  X  X  
+X  X  60 68 50 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+1  54 90 68 16 
+X  50 X  95 12 
+21 71 81 X  60 
+after getting bingo
+
+
+Removing board 
+X  X  93 X  88 
+X  16 X  X  71 
+X  86 81 76 68 
+X  X  X  X  X  
+X  X  67 59 1  
+after getting bingo
+
+Round 60: 86
+
+Removing board 
+X  67 52 X  X  
+X  5  4  51 76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+20 75 12 67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  50 
+44 X  X  35 X  
+after getting bingo
+
+
+Removing board 
+43 X  50 X  77 
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+76 12 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  60 X  X  X  
+X  X  X  X  X  
+77 X  95 X  75 
+81 X  85 21 3  
+X  X  X  20 50 
+after getting bingo
+
+
+Removing board 
+12 54 X  X  52 
+X  X  X  X  X  
+X  X  X  X  X  
+3  4  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  3  1  71 X  
+X  X  X  76 X  
+X  X  X  X  X  
+67 X  X  X  X  
+X  X  43 X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  5  
+X  X  X  4  1  
+50 X  12 83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+X  75 41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 60 
+44 X  12 84 X  
+after getting bingo
+
+
+Removing board 
+59 X  9  67 X  
+X  18 X  X  50 
+X  X  75 X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  9  
+X  68 75 X  54 
+X  X  13 78 X  
+85 X  81 16 51 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  77 
+X  X  X  X  78 
+16 X  3  X  X  
+68 95 X  X  43 
+50 X  X  X  X  
+after getting bingo
+
+Round 61: 25
+
+Removing board 
+X  X  X  X  35 
+X  X  75 X  X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  X  83 68 
+78 X  81 59 X  
+X  X  X  21 75 
+X  X  67 X  X  
+X  X  X  3  X  
+after getting bingo
+
+
+Removing board 
+50 X  X  84 X  
+X  X  51 3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+12 X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  X  4  X  
+X  21 X  X  3  
+X  12 X  X  16 
+X  X  43 X  54 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 78 12 5  
+X  4  35 X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+60 X  X  24 X  
+after getting bingo
+
+
+Removing board 
+13 X  X  50 X  
+77 4  41 X  X  
+68 X  75 9  X  
+X  X  60 X  X  
+X  83 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  60 44 78 
+X  X  X  X  X  
+X  21 59 35 X  
+X  X  67 X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 62: 4
+
+Removing board 
+85 X  90 X  88 
+95 X  X  X  X  
+1  X  X  41 X  
+54 X  X  9  X  
+60 X  X  67 16 
+after getting bingo
+
+
+Removing board 
+X  67 52 X  X  
+X  5  X  51 76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  77 X  
+3  X  X  20 35 
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+12 54 X  X  52 
+X  X  X  X  X  
+X  X  X  X  X  
+3  X  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  68 X  X  5  
+X  X  X  X  1  
+50 X  12 83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+X  51 X  90 X  
+35 X  X  X  X  
+X  X  X  X  X  
+50 81 13 18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  77 35 90 
+X  X  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  21 X  X  3  
+X  12 X  X  16 
+X  X  43 X  54 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 78 12 5  
+X  X  35 X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+60 X  X  24 X  
+after getting bingo
+
+
+Removing board 
+13 X  X  50 X  
+77 X  41 X  X  
+68 X  75 9  X  
+X  X  60 X  X  
+X  83 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  9  82 13 
+84 X  X  X  X  
+X  X  X  X  X  
+44 24 52 X  X  
+X  X  X  X  5  
+after getting bingo
+
+Round 63: 12
+
+Removing board 
+20 75 X  67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  50 
+44 X  X  35 X  
+after getting bingo
+
+
+Removing board 
+X  X  1  81 X  
+X  71 X  52 X  
+X  X  X  82 X  
+X  X  X  X  51 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+43 X  50 X  77 
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+76 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  52 
+X  X  X  X  X  
+X  X  X  X  X  
+3  X  59 60 X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+35 44 X  X  X  
+75 67 X  X  3  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  93 X  X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 60 
+X  50 X  X  83 
+X  X  9  X  95 
+X  X  24 54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  5  
+X  X  X  X  1  
+50 X  X  83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+X  75 41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 60 
+44 X  X  84 X  
+after getting bingo
+
+
+Removing board 
+54 51 X  X  52 
+X  X  X  X  X  
+20 35 X  X  X  
+X  X  X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+88 X  84 X  X  
+67 X  X  X  X  
+71 X  X  76 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  44 
+X  X  54 X  X  
+43 X  18 X  X  
+X  X  X  X  X  
+X  X  60 68 50 
+after getting bingo
+
+
+Removing board 
+50 X  X  84 X  
+X  X  51 3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  21 X  X  3  
+X  X  X  X  16 
+X  X  43 X  54 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 78 X  5  
+X  X  35 X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+60 X  X  24 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+1  54 90 68 16 
+X  50 X  95 X  
+21 71 81 X  60 
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+X  X  13 X  88 
+X  X  X  X  X  
+76 X  X  67 9  
+X  85 X  5  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  X  X  
+X  13 X  X  75 
+X  X  85 X  9  
+X  X  X  41 X  
+X  X  95 X  24 
+after getting bingo
+
+Round 64: 51
+
+Removing board 
+X  67 52 X  X  
+X  5  X  X  76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+X  X  1  81 X  
+X  71 X  52 X  
+X  X  X  82 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+68 X  X  X  59 
+X  35 76 78 X  
+X  X  X  X  X  
+X  X  X  54 9  
+X  18 X  60 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  9  
+71 X  X  X  X  
+13 X  X  X  X  
+16 X  93 X  X  
+X  82 X  X  X  
+after getting bingo
+
+
+Removing board 
+35 90 X  X  X  
+67 60 82 68 1  
+5  X  93 44 X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+52 71 X  95 84 
+76 X  X  59 X  
+1  X  X  X  X  
+X  X  X  50 68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  90 X  
+35 X  X  X  X  
+X  X  X  X  X  
+50 81 13 18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  52 
+X  X  X  X  X  
+20 35 X  X  X  
+X  X  X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+95 21 75 X  X  
+X  X  X  X  90 
+X  X  X  81 82 
+X  X  54 9  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+50 X  X  84 X  
+X  X  X  3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+5  X  X  X  X  
+X  X  X  X  81 
+X  X  78 3  X  
+X  X  X  X  X  
+X  X  X  75 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  9  
+X  68 75 X  54 
+X  X  13 78 X  
+85 X  81 16 X  
+after getting bingo
+
+Round 65: 60
+
+Removing board 
+85 X  90 X  88 
+95 X  X  X  X  
+1  X  X  41 X  
+54 X  X  9  X  
+X  X  X  67 16 
+after getting bingo
+
+
+Removing board 
+X  X  50 X  X  
+X  13 X  X  X  
+X  85 75 71 X  
+X  X  41 X  X  
+68 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+68 X  X  X  59 
+X  35 76 78 X  
+X  X  X  X  X  
+X  X  X  54 9  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  95 X  75 
+81 X  85 21 3  
+X  X  X  20 50 
+after getting bingo
+
+
+Removing board 
+X  54 X  X  52 
+X  X  X  X  X  
+X  X  X  X  X  
+3  X  59 X  X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+35 90 X  X  X  
+67 X  82 68 1  
+5  X  93 44 X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  67 X  18 X  
+X  50 X  X  83 
+X  X  9  X  95 
+X  X  24 54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  24 X  X  X  
+68 16 X  X  20 
+X  X  X  X  X  
+X  X  54 X  95 
+after getting bingo
+
+
+Removing board 
+X  75 41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 X  
+44 X  X  84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  44 
+X  X  54 X  X  
+43 X  18 X  X  
+X  X  X  X  X  
+X  X  X  68 50 
+after getting bingo
+
+
+Removing board 
+X  84 X  X  85 
+X  X  X  X  X  
+78 52 67 X  X  
+43 X  X  44 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  84 78 X  5  
+X  X  35 X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+X  X  X  24 X  
+after getting bingo
+
+
+Removing board 
+13 X  X  50 X  
+77 X  41 X  X  
+68 X  75 9  X  
+X  X  X  X  X  
+X  83 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+1  54 90 68 16 
+X  50 X  95 X  
+21 71 81 X  X  
+after getting bingo
+
+Round 66: 35
+
+Removing board 
+50 X  X  X  X  
+X  X  3  83 X  
+X  93 81 84 X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+20 75 X  67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  50 
+44 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+68 X  X  X  59 
+X  X  76 78 X  
+X  X  X  X  X  
+X  X  X  54 9  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  77 X  
+3  X  X  20 X  
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+67 X  82 68 1  
+5  X  93 44 X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  44 X  X  X  
+75 67 X  X  3  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  93 X  X  
+after getting bingo
+
+
+Removing board 
+X  59 93 X  X  
+X  X  84 44 X  
+X  X  24 X  X  
+X  54 X  13 X  
+9  X  52 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  75 X  X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+50 81 13 18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  52 
+X  X  X  X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  X  5  X  
+after getting bingo
+
+
+Removing board 
+67 X  44 X  X  
+X  X  1  X  X  
+X  X  5  50 X  
+X  X  X  24 X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  77 X  90 
+X  X  75 X  84 
+5  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 78 X  5  
+X  X  X  X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+X  X  X  24 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  41 X  
+X  X  16 18 X  
+X  X  X  X  3  
+X  X  20 X  X  
+X  85 X  X  X  
+after getting bingo
+
+Round 67: 50
+
+Removing board 
+X  X  X  X  X  
+X  X  3  83 X  
+X  93 81 84 X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+20 75 X  67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  X  
+44 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  85 75 71 X  
+X  X  41 X  X  
+68 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+43 X  X  X  77 
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+76 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  95 X  75 
+81 X  85 21 3  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 X  
+X  X  X  X  83 
+X  X  9  X  95 
+X  X  24 54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  5  
+X  X  X  X  1  
+X  X  X  83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+52 71 X  95 84 
+76 X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  81 13 18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  44 
+X  X  54 X  X  
+43 X  18 X  X  
+X  X  X  X  X  
+X  X  X  68 X  
+after getting bingo
+
+
+Removing board 
+67 X  44 X  X  
+X  X  1  X  X  
+X  X  5  X  X  
+X  X  X  24 X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+X  X  X  84 X  
+X  X  X  3  85 
+X  X  1  X  44 
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+59 X  9  67 X  
+X  18 X  X  X  
+X  X  75 X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+85 X  X  X  X  
+X  X  X  52 X  
+90 X  54 21 X  
+X  X  84 44 X  
+93 X  75 X  83 
+after getting bingo
+
+
+Removing board 
+13 X  X  X  X  
+77 X  41 X  X  
+68 X  75 9  X  
+X  X  X  X  X  
+X  83 X  X  X  
+after getting bingo
+
+Round 68: 5
+
+Removing board 
+X  67 52 X  X  
+X  X  X  X  76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  X  X  93 9  
+71 84 X  24 X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  93 71 X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+67 77 41 X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+67 X  82 68 1  
+X  X  93 44 X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  83 X  
+X  X  X  X  X  
+76 90 71 88 95 
+after getting bingo
+
+
+Removing board 
+54 X  X  X  52 
+X  X  X  X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  75 
+X  X  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+67 X  44 X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  24 X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  77 X  90 
+X  X  75 X  84 
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  81 
+X  X  78 3  X  
+X  X  X  X  X  
+X  X  X  75 X  
+after getting bingo
+
+
+Removing board 
+X  84 78 X  X  
+X  X  X  X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+X  X  X  24 X  
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+X  X  13 X  88 
+X  X  X  X  X  
+76 X  X  67 9  
+X  85 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+77 X  X  X  13 
+X  X  X  90 X  
+84 44 X  X  X  
+X  X  X  X  21 
+after getting bingo
+
+Round 69: 75
+
+Removing board 
+20 X  X  67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  X  
+44 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  85 X  71 X  
+X  X  41 X  X  
+68 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  95 X  X  
+81 X  85 21 3  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  44 X  X  X  
+X  67 X  X  3  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  93 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  85 X  X  
+93 X  X  18 52 
+16 X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  54 67 X  
+X  X  X  X  59 
+X  93 X  X  X  
+X  41 X  X  X  
+X  X  21 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 X  
+44 X  X  84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  9  90 X  
+41 71 85 1  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  83 68 
+78 X  81 59 X  
+X  X  X  21 X  
+X  X  67 X  X  
+X  X  X  3  X  
+after getting bingo
+
+
+Removing board 
+95 21 X  X  X  
+X  X  X  X  90 
+X  X  X  81 82 
+X  X  54 9  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+59 X  9  67 X  
+X  18 X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  77 X  90 
+X  X  X  X  84 
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  81 
+X  X  78 3  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  24 X  X  
+X  82 X  68 41 
+X  71 X  93 1  
+X  X  X  81 X  
+X  X  X  76 X  
+after getting bingo
+
+
+Removing board 
+85 X  X  X  X  
+X  X  X  52 X  
+90 X  54 21 X  
+X  X  84 44 X  
+93 X  X  X  83 
+after getting bingo
+
+Round 70: 95
+
+Removing board 
+85 X  90 X  88 
+X  X  X  X  X  
+1  X  X  41 X  
+54 X  X  9  X  
+X  X  X  67 16 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  X  X  X  
+81 X  85 21 3  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 X  
+X  X  X  X  83 
+X  X  9  X  X  
+X  X  24 54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  83 X  
+X  X  X  X  X  
+76 90 71 88 X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  54 X  
+3  X  X  X  X  
+24 X  X  X  X  
+76 X  X  X  41 
+after getting bingo
+
+
+Removing board 
+52 71 X  X  84 
+76 X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  24 X  X  X  
+68 16 X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  21 X  X  X  
+X  X  X  X  90 
+X  X  X  81 82 
+X  X  54 9  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+24 18 X  X  X  
+X  X  X  71 X  
+3  X  20 X  X  
+X  X  84 X  X  
+82 X  81 X  X  
+after getting bingo
+
+Round 71: 44
+
+Removing board 
+X  X  X  X  X  
+X  X  93 X  X  
+X  X  X  83 54 
+X  X  76 X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+20 X  X  67 41 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+67 X  82 68 1  
+X  X  93 X  X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  3  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  93 X  X  
+after getting bingo
+
+
+Removing board 
+X  41 X  X  76 
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  83 71 
+20 X  85 X  54 
+after getting bingo
+
+
+Removing board 
+X  59 93 X  X  
+X  X  84 X  X  
+X  X  24 X  X  
+X  54 X  13 X  
+9  X  52 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  77 X  
+X  X  X  84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  54 X  X  
+43 X  18 X  X  
+X  X  X  X  X  
+X  X  X  68 X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  24 X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+X  X  X  84 X  
+X  X  X  3  85 
+X  X  1  X  X  
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  13 68 24 
+90 X  X  71 X  
+X  X  X  X  X  
+X  41 X  1  16 
+X  59 43 84 X  
+after getting bingo
+
+
+Removing board 
+X  84 X  X  85 
+X  X  X  X  X  
+78 52 67 X  X  
+43 X  X  X  X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  24 X  X  X  
+X  X  X  X  X  
+X  X  X  X  93 
+88 52 X  X  X  
+X  X  X  54 67 
+after getting bingo
+
+Round 72: 16
+
+Removing board 
+85 X  90 X  88 
+X  X  X  X  X  
+1  X  X  41 X  
+54 X  X  9  X  
+X  X  X  67 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  9  
+71 X  X  X  X  
+13 X  X  X  X  
+X  X  93 X  X  
+X  82 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  X  X  X  
+93 43 81 X  X  
+20 X  X  24 3  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  24 X  X  X  
+68 X  X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  85 X  X  
+93 X  X  18 52 
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  59 X  9  X  
+52 X  X  X  X  
+X  X  X  82 X  
+X  81 X  X  3  
+after getting bingo
+
+
+Removing board 
+X  X  13 68 24 
+90 X  X  71 X  
+X  X  X  X  X  
+X  41 X  1  X  
+X  59 43 84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  21 X  X  3  
+X  X  X  X  X  
+X  X  43 X  54 
+X  X  X  X  X  
+after getting bingo
+
+Round 73: 93
+
+Removing board 
+X  X  X  X  X  
+X  X  3  83 X  
+X  X  81 84 X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  83 54 
+X  X  76 X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  X  X  X  9  
+71 84 X  24 X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  9  
+71 X  X  X  X  
+13 X  X  X  X  
+X  X  X  X  X  
+X  82 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  71 X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+67 77 41 X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+67 X  59 24 88 
+84 X  X  52 78 
+X  X  X  90 X  
+X  3  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+67 X  82 68 1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  3  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  X  X  X  
+X  43 81 X  X  
+20 X  X  24 3  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  59 X  X  X  
+X  X  84 X  X  
+X  X  24 X  X  
+X  54 X  13 X  
+9  X  52 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  85 X  X  
+X  X  X  18 52 
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+X  X  54 67 X  
+X  X  X  X  59 
+X  X  X  X  X  
+X  41 X  X  X  
+X  X  21 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  24 X  X  
+X  82 X  68 41 
+X  71 X  X  1  
+X  X  X  81 X  
+X  X  X  76 X  
+after getting bingo
+
+Round 74: 21
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  X  X  X  
+81 X  85 X  3  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  X  54 67 X  
+X  X  X  X  59 
+X  X  X  X  X  
+X  41 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  83 68 
+78 X  81 59 X  
+X  X  X  X  X  
+X  X  67 X  X  
+X  X  X  3  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  90 
+X  X  X  81 82 
+X  X  54 9  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 75: 3
+
+Removing board 
+X  X  X  X  X  
+X  X  X  83 X  
+X  X  81 84 X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  77 X  
+X  X  X  20 X  
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  59 24 88 
+84 X  X  52 78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+77 X  X  X  X  
+81 X  85 X  X  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  52 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  59 X  X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  9  X  X  
+71 X  X  77 18 
+X  X  X  76 X  
+83 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  71 X  
+X  X  X  76 X  
+X  X  X  X  X  
+67 X  X  X  X  
+X  X  43 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  X  
+X  41 X  X  52 
+X  9  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+24 X  X  X  X  
+76 X  X  X  41 
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  X  X  X  
+X  43 81 X  X  
+20 X  X  24 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  59 X  9  X  
+52 X  X  X  X  
+X  X  X  82 X  
+X  81 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  83 68 
+78 X  81 59 X  
+X  X  X  X  X  
+X  X  67 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  84 X  
+X  X  X  X  85 
+X  X  1  X  X  
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  81 
+X  X  78 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 76: 24
+
+Removing board 
+X  X  X  59 X  
+X  X  X  X  9  
+71 84 X  X  X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  59 X  88 
+84 X  X  52 78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 X  
+X  X  X  X  83 
+X  X  9  X  X  
+X  X  X  54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+76 X  X  X  41 
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  X  X  X  
+X  43 81 X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  68 77 X  X  
+X  20 X  X  X  
+76 X  X  X  X  
+67 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 9  
+X  X  X  X  X  
+68 X  X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  59 X  X  X  
+X  X  84 X  X  
+X  X  X  X  X  
+X  54 X  13 X  
+9  X  52 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  78 X  
+X  X  X  43 20 
+X  85 X  X  71 
+41 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+X  X  13 68 X  
+90 X  X  71 X  
+X  X  X  X  X  
+X  41 X  1  X  
+X  59 43 84 X  
+after getting bingo
+
+
+Removing board 
+X  84 78 X  X  
+X  X  X  X  85 
+X  X  X  X  X  
+X  90 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 77: 52
+
+Removing board 
+X  67 X  X  X  
+X  X  X  X  76 
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+X  X  1  81 X  
+X  71 X  X  X  
+X  X  X  82 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  59 X  88 
+84 X  X  X  78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  59 X  X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  X  
+X  41 X  X  X  
+X  9  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  71 X  X  84 
+76 X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  59 X  X  X  
+X  X  84 X  X  
+X  X  X  X  X  
+X  54 X  13 X  
+9  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  85 X  X  
+X  X  X  18 X  
+X  X  X  X  77 
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  X  X  X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  59 X  9  X  
+X  X  X  X  X  
+X  X  X  82 X  
+X  81 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  84 X  X  85 
+X  X  X  X  X  
+78 X  67 X  X  
+43 X  X  X  X  
+X  X  X  X  18 
+after getting bingo
+
+Round 78: 77
+
+Removing board 
+43 X  X  X  X  
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+76 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  71 X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+67 X  41 X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+81 X  85 X  X  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  9  X  X  
+71 X  X  X  18 
+X  X  X  76 X  
+83 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+67 X  82 68 1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  68 X  X  X  
+X  20 X  X  X  
+76 X  X  X  X  
+67 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  85 X  X  
+X  X  X  18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  90 
+X  X  X  X  84 
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+Round 79: 76
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  83 54 
+X  X  X  X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  67 X  X  X  
+X  X  X  X  X  
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  43 
+after getting bingo
+
+
+Removing board 
+68 X  X  X  59 
+X  X  X  78 X  
+X  X  X  X  X  
+X  X  X  54 9  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+43 X  X  X  X  
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  9  X  X  
+71 X  X  X  18 
+X  X  X  X  X  
+83 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  71 X  
+X  X  X  X  X  
+X  X  X  X  X  
+67 X  X  X  X  
+X  X  43 X  X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  43 
+X  81 X  84 82 
+X  X  9  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  67 18 X  
+68 X  X  X  59 
+X  X  X  9  84 
+X  X  20 X  X  
+X  X  X  X  88 
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  83 X  
+X  X  X  X  X  
+X  90 71 88 X  
+after getting bingo
+
+
+Removing board 
+X  43 X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  41 
+after getting bingo
+
+
+Removing board 
+X  71 X  X  84 
+X  X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  68 X  X  X  
+X  20 X  X  X  
+X  X  X  X  X  
+67 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  41 X  X  X  
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  83 71 
+20 X  85 X  54 
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+88 X  84 X  X  
+67 X  X  X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  41 X  X  
+X  X  13 X  88 
+X  X  X  X  X  
+X  X  X  67 9  
+X  85 X  X  X  
+after getting bingo
+
+Round 80: 43
+
+Removing board 
+X  67 X  X  X  
+X  X  X  X  X  
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 84 X  
+X  59 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+18 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  71 X  
+X  X  X  X  X  
+X  X  X  X  X  
+67 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  X  
+X  81 X  84 82 
+X  X  9  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  41 
+after getting bingo
+
+
+Removing board 
+X  X  13 X  X  
+X  X  X  X  X  
+X  X  81 X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  78 X  
+X  X  X  X  20 
+X  85 X  X  71 
+41 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  54 X  X  
+X  X  18 X  X  
+X  X  X  X  X  
+X  X  X  68 X  
+after getting bingo
+
+
+Removing board 
+X  X  13 68 X  
+90 X  X  71 X  
+X  X  X  X  X  
+X  41 X  1  X  
+X  59 X  84 X  
+after getting bingo
+
+
+Removing board 
+13 X  82 X  X  
+X  71 1  X  X  
+X  X  X  54 X  
+X  83 X  X  X  
+X  41 X  X  X  
+after getting bingo
+
+Round 81: 41
+
+Removing board 
+85 X  90 X  88 
+X  X  X  X  X  
+1  X  X  X  X  
+54 X  X  9  X  
+X  X  X  67 X  
+after getting bingo
+
+
+Removing board 
+20 X  X  67 X  
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  85 X  71 X  
+X  X  X  X  X  
+68 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  71 X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+67 X  X  X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  X  
+X  X  X  X  X  
+X  9  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  83 71 
+20 X  85 X  54 
+after getting bingo
+
+
+Removing board 
+X  X  54 67 X  
+X  X  X  X  59 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  84 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  78 X  
+X  X  X  X  20 
+X  85 X  X  71 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  9  90 X  
+X  71 85 1  X  
+after getting bingo
+
+
+Removing board 
+X  X  13 68 X  
+90 X  X  71 X  
+X  X  X  X  X  
+X  X  X  1  X  
+X  59 X  84 X  
+after getting bingo
+
+
+Removing board 
+71 X  X  X  X  
+X  X  X  X  18 
+X  X  X  X  X  
+X  X  20 X  X  
+X  84 X  85 9  
+after getting bingo
+
+Round 82: 9
+
+Removing board 
+85 X  90 X  88 
+X  X  X  X  X  
+1  X  X  X  X  
+54 X  X  X  X  
+X  X  X  67 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  X  X  X  X  
+71 84 X  X  X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+68 X  X  X  59 
+X  X  X  78 X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+71 X  X  X  X  
+13 X  X  X  X  
+X  X  X  X  X  
+X  82 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 85 54 X  
+X  X  X  X  X  
+X  X  X  59 X  
+X  68 X  X  67 
+X  88 X  X  X  
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  X  X  X  
+71 X  X  X  18 
+X  X  X  X  X  
+83 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  X  
+X  81 X  84 82 
+X  X  X  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  67 18 X  
+68 X  X  X  59 
+X  X  X  X  84 
+X  X  20 X  X  
+X  X  X  X  88 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  67 X  X  X  
+X  X  X  X  X  
+X  X  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  67 X  18 X  
+X  X  X  X  83 
+X  X  X  X  X  
+X  X  X  54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 X  
+X  X  X  X  X  
+68 X  X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  59 X  X  X  
+X  X  84 X  X  
+X  X  X  X  X  
+X  54 X  13 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  59 X  X  X  
+X  X  X  X  X  
+X  X  X  82 X  
+X  81 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  90 X  
+X  71 85 1  X  
+after getting bingo
+
+
+Removing board 
+59 X  X  67 X  
+X  18 X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  88 54 X  X  
+X  X  X  13 X  
+85 X  X  X  X  
+83 X  X  20 X  
+71 X  X  X  X  
+after getting bingo
+
+Round 83: 84
+
+Removing board 
+X  X  X  X  X  
+X  X  X  83 X  
+X  X  81 X  X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  X  X  X  X  
+71 X  X  X  X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  59 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  59 X  88 
+X  X  X  X  78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+67 X  X  X  X  
+X  81 X  X  82 
+X  X  X  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  67 18 X  
+68 X  X  X  59 
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  88 
+after getting bingo
+
+
+Removing board 
+X  71 X  X  X  
+X  X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  59 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  54 X  13 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+71 67 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+88 X  X  X  X  
+67 X  X  X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  85 
+X  X  1  X  X  
+X  X  13 88 X  
+X  X  X  X  18 
+after getting bingo
+
+
+Removing board 
+X  X  13 68 X  
+90 X  X  71 X  
+X  X  X  X  X  
+X  X  X  1  X  
+X  59 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  68 X  X  X  
+X  78 54 88 X  
+X  X  X  X  83 
+X  X  X  X  X  
+after getting bingo
+
+Round 84: 67
+
+Removing board 
+85 X  90 X  88 
+X  X  X  X  X  
+1  X  X  X  X  
+54 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  59 X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  85 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 85 54 X  
+X  X  X  X  X  
+X  X  X  59 X  
+X  68 X  X  X  
+X  88 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  71 X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+X  X  59 X  88 
+X  X  X  X  78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  71 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+X  X  82 68 1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  81 X  X  82 
+X  X  X  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+68 X  X  X  59 
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  88 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  88 
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+X  X  X  X  83 
+X  X  X  X  X  
+X  X  X  54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  68 X  X  X  
+X  20 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  54 X  X  
+X  X  X  X  59 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+71 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  83 68 
+78 X  81 59 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+88 X  X  X  X  
+X  X  X  X  X  
+71 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  85 
+after getting bingo
+
+
+Removing board 
+59 X  X  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+after getting bingo
+
+Round 85: 71
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  83 54 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  59 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  81 X  
+X  X  X  X  X  
+X  X  X  82 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  85 X  X  X  
+X  X  X  X  X  
+68 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+X  X  X  X  X  
+X  82 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  82 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  X  X  X  
+X  X  X  X  18 
+X  X  X  X  X  
+83 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  83 X  
+X  X  X  X  X  
+X  90 X  88 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  59 X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  83 X  
+20 X  85 X  54 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  78 X  
+X  X  X  X  20 
+X  85 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  90 X  
+X  X  85 1  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+88 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  13 68 X  
+90 X  X  X  X  
+X  X  X  X  X  
+X  X  X  1  X  
+X  59 X  X  X  
+after getting bingo
+
+Round 86: 83
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  81 X  X  
+X  X  X  X  X  
+X  X  59 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  54 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+1  X  X  X  82 
+X  X  X  X  X  
+X  X  X  X  18 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  68 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  90 X  88 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  X  X  
+20 X  85 X  54 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  68 
+78 X  81 59 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 87: 88
+
+Removing board 
+85 X  90 X  X  
+X  X  X  X  X  
+1  X  X  X  X  
+54 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 85 54 X  
+X  X  X  X  X  
+X  X  X  59 X  
+X  68 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  59 X  X  
+X  X  X  X  78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+68 X  X  X  59 
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  68 X  X  X  
+X  X  X  X  1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  90 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  59 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  85 
+X  X  1  X  X  
+X  X  13 X  X  
+X  X  X  X  18 
+after getting bingo
+
+Round 88: 59
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  81 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  78 X  X  X  
+after getting bingo
+
+
+Removing board 
+68 X  X  X  X  
+X  X  X  78 X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 85 54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  68 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  78 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  13 85 
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+68 X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+1  X  X  X  X  
+X  X  X  X  68 
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  54 X  13 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  54 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  82 X  
+X  81 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 89: 68
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  85 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  78 X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  18 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 85 54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+X  X  82 X  1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  18 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  90 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+1  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  1  X  
+X  X  X  X  X  
+X  20 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  82 X  
+X  X  X  X  X  
+X  X  X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  54 X  X  
+X  X  18 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 90: 85
+
+Removing board 
+X  X  90 X  X  
+X  X  X  X  X  
+1  X  X  X  X  
+54 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  13 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+81 X  X  X  X  
+X  X  X  20 X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  13 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  78 X  X  
+X  X  X  X  X  
+20 X  X  X  54 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  18 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  78 X  
+X  X  X  X  20 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  90 X  
+X  X  X  1  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  1  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 91: 82
+
+Removing board 
+X  X  1  81 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  78 90 
+X  X  X  X  X  
+X  X  1  X  X  
+13 X  X  X  X  
+X  X  X  18 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  81 
+after getting bingo
+
+
+Removing board 
+1  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  18 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+X  X  X  X  1  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  81 X  X  X  
+X  X  X  X  X  
+X  18 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  20 
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  81 X  X  X  
+after getting bingo
+
+Round 92: 1
+
+Removing board 
+X  X  90 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+54 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+20 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  81 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  78 90 
+X  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+X  X  X  18 X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  18 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  90 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  90 X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  20 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  90 X  
+X  X  X  X  X  
+after getting bingo
+
+Round 93: 18
+
+Removing board 
+X  X  X  X  X  
+X  X  X  78 X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  20 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  78 90 
+X  X  X  X  X  
+X  X  X  X  X  
+13 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  81 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  20 X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  81 13 X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 94: 13
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  78 90 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  54 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  81 X  X  
+20 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  54 X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 95: 78
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  54 X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  X  90 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  90 X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+20 X  X  X  54 
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  54 X  X  X  
+X  X  X  X  20 
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 96: 20
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+81 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  81 X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  54 X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  54 
+after getting bingo
+
+
+Removing board 
+54 X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 97: 90
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+54 X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  54 X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  81 X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 98: 81
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+Round 99: 54
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
+
+Removing board 
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+X  X  X  X  X  
+after getting bingo
+
